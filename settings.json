@@ -1,0 +1,39 @@
+{
+    "Tarih": {
+        "cells": "G1,B19,F19,F22,B22",
+        "enabled": true
+    },
+    "Kisim_Sefi": {
+        "cells": "B21,F5",
+        "enabled": true
+    },
+    "Adi_Soyadi": {
+        "cells": "D3",
+        "enabled": true
+    },
+    "Gorevi": {
+        "cells": "D4",
+        "enabled": true
+    },
+    "Talep_Edilen_Izin_Gun_Sayisi": {
+        "cells": "D6",
+        "enabled": true
+    },
+    "Izin_Baslangic_Tarihi": {
+        "cells": "D7",
+        "enabled": true
+    },
+    "Izin_Bitis_Tarihi": {
+        "cells": "G7",
+        "enabled": true
+    },
+    "Izinli_Iken_Yerine_Bakacak_Kisi": {
+        "cells": "D8",
+        "enabled": true
+    },
+    "Kontrol_Eden": {
+        "cells": "B18",
+        "enabled": true
+    },
+    "Kontrol_Eden_Adi": "EMRAH GÜMRÜK"
+}
